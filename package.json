@@ -1,0 +1,17 @@
+{
+  "name": "materialize-src",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"http://materializecss.com/\">     <img src=\"http://materializecss.com/res/materialize.svg\" width=\"150\">   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "sass": "node-sass sass/materialize.scss css/materialize.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^4.13.0"
+  }
+}
