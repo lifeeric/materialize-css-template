@@ -4,10 +4,10 @@
 
 
 ## How to use it?
-just run the below command in the project directory
-### `npm install`
+### just run the below command in the project directory.
+`npm install`
 
-after downloading the Dependeniences, start live-server with below command
+### after downloading the dependencies, start live-server with below command.
 
-### `npm run dev`
+`npm run dev`
 
