@@ -8,7 +8,7 @@
     "sass": "node-sass sass/materialize.scss css/materialize.css"
   },
   "keywords": [],
-  "author": "",
+  "author": "@lifeeric",
   "license": "ISC",
   "devDependencies": {
     "live-server": "^1.2.1",
